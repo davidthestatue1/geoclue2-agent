@@ -1,0 +1,119 @@
+# English translations for geoclueagent package.
+# Copyright (C) 2016 koko-ng <koko.fr.mu@gmail.com>
+# This file is distributed under the same license as the geoclueagent package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: geoclueagent 0.0.1\n"
+"Report-Msgid-Bugs-To: koko.fr.mu@gmail.com\n"
+"POT-Creation-Date: 2016-10-20 13:11+0200\n"
+"PO-Revision-Date: 2016-10-20 13:11+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en@quot\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/service.c:42
+#, c-format
+msgid "Application %s granted to access to location with an accuracy of %i"
+msgstr "Application %s granted to access to location with an accuracy of %i"
+
+#: src/service.c:104
+#, c-format
+msgid "Application %s asked for location access with accuracy of %i"
+msgstr "Application %s asked for location access with accuracy of %i"
+
+#: src/service.c:144
+msgid "error while registering as agent"
+msgstr "error while registering as agent"
+
+#: src/service.c:156
+msgid "Agent registered"
+msgstr "Agent registered"
+
+#: src/service.c:174
+msgid "error while exporting the agent"
+msgstr "error while exporting the agent"
+
+#: src/service.c:189
+msgid "error while getting the manager"
+msgstr "error while getting the manager"
+
+#: src/service.c:210
+msgid "adding agent…"
+msgstr "adding agent…"
+
+#: src/appwin.c:36
+msgid "GeoClue Agent"
+msgstr "GeoClue Agent"
+
+#: src/appwin.c:37
+msgid "About GeoClue Agent"
+msgstr "About GeoClue Agent"
+
+#: src/servicewin.c:74
+msgid "Localisation access"
+msgstr "Localisation access"
+
+#: src/servicewin.c:88
+#, c-format
+msgid "Application ''%s'' is trying to access to your localisation"
+msgstr "Application ''%s'' is trying to access to your localisation"
+
+#: src/servicewin.c:98
+msgid "Accuracy: "
+msgstr "Accuracy: "
+
+#: src/servicewin.c:103
+msgid "None"
+msgstr "None"
+
+#: src/servicewin.c:105
+msgid "Country"
+msgstr "Country"
+
+#: src/servicewin.c:107
+msgid "City"
+msgstr "City"
+
+#: src/servicewin.c:109
+msgid "Neighborhood"
+msgstr "Neighborhood"
+
+#: src/servicewin.c:111
+msgid "Street"
+msgstr "Street"
+
+#: src/servicewin.c:113
+msgid "Exact"
+msgstr "Exact"
+
+#: src/servicewin.c:117
+msgid "Remember my choice"
+msgstr "Remember my choice"
+
+#: src/servicewin.c:124
+msgid "Refuse"
+msgstr "Refuse"
+
+#: src/servicewin.c:127
+msgid "Allow"
+msgstr "Allow"
+
+#: misc/io.github.koko-ng.geoclue-agent.gschema.xml:7
+msgid "remembered authorization for apps"
+msgstr "remembered authorization for apps"
+
+#: misc/io.github.koko-ng.geoclue-agent.gschema.xml:8
+msgid ""
+"The first field is the desktop file of the app. The second one is the "
+"allowed accuracy as defined by GeoClue2 specification, as a variant "
+"containing a signed 16-bit integer"
+msgstr ""
+"The first field is the desktop file of the app. The second one is the "
+"allowed accuracy as defined by GeoClue2 specification, as a variant "
+"containing a signed 16-bit integer"

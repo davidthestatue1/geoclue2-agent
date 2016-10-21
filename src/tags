@@ -1,0 +1,214 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ChangedProperty	../lib/geoclue-agent-interface.c	/^} ChangedProperty;$/;"	t	typeref:struct:__anon9	file:
+DialogData	service.c	/^struct DialogData{$/;"	s	file:
+GCLUE_AGENT	../lib/geoclue-agent-interface.h	19;"	d
+GCLUE_AGENT_GET_IFACE	../lib/geoclue-agent-interface.h	21;"	d
+GCLUE_AGENT_PROXY	../lib/geoclue-agent-interface.h	92;"	d
+GCLUE_AGENT_PROXY_CLASS	../lib/geoclue-agent-interface.h	93;"	d
+GCLUE_AGENT_PROXY_GET_CLASS	../lib/geoclue-agent-interface.h	94;"	d
+GCLUE_AGENT_SKELETON	../lib/geoclue-agent-interface.h	162;"	d
+GCLUE_AGENT_SKELETON_CLASS	../lib/geoclue-agent-interface.h	163;"	d
+GCLUE_AGENT_SKELETON_GET_CLASS	../lib/geoclue-agent-interface.h	164;"	d
+GCLUE_IS_AGENT	../lib/geoclue-agent-interface.h	20;"	d
+GCLUE_IS_AGENT_PROXY	../lib/geoclue-agent-interface.h	95;"	d
+GCLUE_IS_AGENT_PROXY_CLASS	../lib/geoclue-agent-interface.h	96;"	d
+GCLUE_IS_AGENT_SKELETON	../lib/geoclue-agent-interface.h	165;"	d
+GCLUE_IS_AGENT_SKELETON_CLASS	../lib/geoclue-agent-interface.h	166;"	d
+GCLUE_TYPE_AGENT	../lib/geoclue-agent-interface.h	18;"	d
+GCLUE_TYPE_AGENT_PROXY	../lib/geoclue-agent-interface.h	91;"	d
+GCLUE_TYPE_AGENT_SKELETON	../lib/geoclue-agent-interface.h	161;"	d
+GClueAgent	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgent GClueAgent;$/;"	t	typeref:struct:_GClueAgent
+GClueAgentIface	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgentIface GClueAgentIface;$/;"	t	typeref:struct:_GClueAgentIface
+GClueAgentInterface	../lib/geoclue-agent-interface.c	/^typedef GClueAgentIface GClueAgentInterface;$/;"	t	file:
+GClueAgentProxy	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgentProxy GClueAgentProxy;$/;"	t	typeref:struct:_GClueAgentProxy
+GClueAgentProxyClass	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgentProxyClass GClueAgentProxyClass;$/;"	t	typeref:struct:_GClueAgentProxyClass
+GClueAgentProxyPrivate	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgentProxyPrivate GClueAgentProxyPrivate;$/;"	t	typeref:struct:_GClueAgentProxyPrivate
+GClueAgentSkeleton	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgentSkeleton GClueAgentSkeleton;$/;"	t	typeref:struct:_GClueAgentSkeleton
+GClueAgentSkeletonClass	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgentSkeletonClass GClueAgentSkeletonClass;$/;"	t	typeref:struct:_GClueAgentSkeletonClass
+GClueAgentSkeletonPrivate	../lib/geoclue-agent-interface.h	/^typedef struct _GClueAgentSkeletonPrivate GClueAgentSkeletonPrivate;$/;"	t	typeref:struct:_GClueAgentSkeletonPrivate
+GEOCLUE_AGENT_APP_TYPE	app.h	23;"	d
+GEOCLUE_AGENT_APP_WINDOW_TYPE	appwin.h	5;"	d
+GEOCLUE_AGENT_SERVICE_TYPE	service.h	7;"	d
+GEOCLUE_AGENT_SERVICE_WINDOW_TYPE	servicewin.h	6;"	d
+GeoClueAgentAppPrivate	app.c	/^} GeoClueAgentAppPrivate;$/;"	t	typeref:struct:__anon1	file:
+GeoClueAgentAppWindowPrivate	appwin.c	/^} GeoClueAgentAppWindowPrivate;$/;"	t	typeref:struct:__anon3	file:
+GeoClueAgentServiceWindowPrivate	servicewin.c	/^} GeoClueAgentServiceWindowPrivate;$/;"	t	typeref:struct:__anon2	file:
+_	app.h	20;"	d
+_ExtendedGDBusArgInfo	../lib/geoclue-agent-interface.c	/^} _ExtendedGDBusArgInfo;$/;"	t	typeref:struct:__anon4	file:
+_ExtendedGDBusInterfaceInfo	../lib/geoclue-agent-interface.c	/^} _ExtendedGDBusInterfaceInfo;$/;"	t	typeref:struct:__anon8	file:
+_ExtendedGDBusMethodInfo	../lib/geoclue-agent-interface.c	/^} _ExtendedGDBusMethodInfo;$/;"	t	typeref:struct:__anon5	file:
+_ExtendedGDBusPropertyInfo	../lib/geoclue-agent-interface.c	/^} _ExtendedGDBusPropertyInfo;$/;"	t	typeref:struct:__anon7	file:
+_ExtendedGDBusSignalInfo	../lib/geoclue-agent-interface.c	/^} _ExtendedGDBusSignalInfo;$/;"	t	typeref:struct:__anon6	file:
+_GClueAgentIface	../lib/geoclue-agent-interface.h	/^struct _GClueAgentIface$/;"	s
+_GClueAgentProxy	../lib/geoclue-agent-interface.h	/^struct _GClueAgentProxy$/;"	s
+_GClueAgentProxyClass	../lib/geoclue-agent-interface.h	/^struct _GClueAgentProxyClass$/;"	s
+_GClueAgentProxyPrivate	../lib/geoclue-agent-interface.c	/^struct _GClueAgentProxyPrivate$/;"	s	file:
+_GClueAgentSkeleton	../lib/geoclue-agent-interface.h	/^struct _GClueAgentSkeleton$/;"	s
+_GClueAgentSkeletonClass	../lib/geoclue-agent-interface.h	/^struct _GClueAgentSkeletonClass$/;"	s
+_GClueAgentSkeletonPrivate	../lib/geoclue-agent-interface.c	/^struct _GClueAgentSkeletonPrivate$/;"	s	file:
+_GNU_SOURCE	app.h	3;"	d
+_GNU_SOURCE	service.h	3;"	d
+_GeoClueAgentAppClass	app.h	/^struct _GeoClueAgentAppClass {$/;"	s
+_GeoClueAgentAppWindow	appwin.h	/^struct _GeoClueAgentAppWindow {$/;"	s
+_GeoClueAgentService	service.c	/^struct _GeoClueAgentService$/;"	s	file:
+_GeoClueAgentServiceWindow	servicewin.h	/^struct _GeoClueAgentServiceWindow {$/;"	s
+__APP_H	app.h	2;"	d
+__GEOCLUE_AGENT_INTERFACE_H__	../lib/geoclue-agent-interface.h	8;"	d
+__SERVICE_H	service.h	2;"	d
+_changed_property_free	../lib/geoclue-agent-interface.c	/^_changed_property_free (ChangedProperty *data)$/;"	f	file:
+_g_strv_equal0	../lib/geoclue-agent-interface.c	/^_g_strv_equal0 (gchar **a, gchar **b)$/;"	f	file:
+_g_value_equal	../lib/geoclue-agent-interface.c	/^_g_value_equal (const GValue *a, const GValue *b)$/;"	f	file:
+_g_variant_equal0	../lib/geoclue-agent-interface.c	/^_g_variant_equal0 (GVariant *a, GVariant *b)$/;"	f	file:
+_gclue_agent_emit_changed	../lib/geoclue-agent-interface.c	/^_gclue_agent_emit_changed (gpointer user_data)$/;"	f	file:
+_gclue_agent_interface_info	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusInterfaceInfo _gclue_agent_interface_info =$/;"	v	file:
+_gclue_agent_method_info_authorize_app	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusMethodInfo _gclue_agent_method_info_authorize_app =$/;"	v	file:
+_gclue_agent_method_info_authorize_app_IN_ARG_desktop_id	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusArgInfo _gclue_agent_method_info_authorize_app_IN_ARG_desktop_id =$/;"	v	file:
+_gclue_agent_method_info_authorize_app_IN_ARG_pointers	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusArgInfo * const _gclue_agent_method_info_authorize_app_IN_ARG_pointers[] =$/;"	v	file:
+_gclue_agent_method_info_authorize_app_IN_ARG_req_accuracy_level	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusArgInfo _gclue_agent_method_info_authorize_app_IN_ARG_req_accuracy_level =$/;"	v	file:
+_gclue_agent_method_info_authorize_app_OUT_ARG_allowed_accuracy_level	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusArgInfo _gclue_agent_method_info_authorize_app_OUT_ARG_allowed_accuracy_level =$/;"	v	file:
+_gclue_agent_method_info_authorize_app_OUT_ARG_authorized	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusArgInfo _gclue_agent_method_info_authorize_app_OUT_ARG_authorized =$/;"	v	file:
+_gclue_agent_method_info_authorize_app_OUT_ARG_pointers	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusArgInfo * const _gclue_agent_method_info_authorize_app_OUT_ARG_pointers[] =$/;"	v	file:
+_gclue_agent_method_info_pointers	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusMethodInfo * const _gclue_agent_method_info_pointers[] =$/;"	v	file:
+_gclue_agent_property_info_max_accuracy_level	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusPropertyInfo _gclue_agent_property_info_max_accuracy_level =$/;"	v	file:
+_gclue_agent_property_info_pointers	../lib/geoclue-agent-interface.c	/^static const _ExtendedGDBusPropertyInfo * const _gclue_agent_property_info_pointers[] =$/;"	v	file:
+_gclue_agent_schedule_emit_changed	../lib/geoclue-agent-interface.c	/^_gclue_agent_schedule_emit_changed (GClueAgentSkeleton *skeleton, const _ExtendedGDBusPropertyInfo *info, guint prop_id, const GValue *orig_value)$/;"	f	file:
+_gclue_agent_skeleton_handle_get_property	../lib/geoclue-agent-interface.c	/^_gclue_agent_skeleton_handle_get_property ($/;"	f	file:
+_gclue_agent_skeleton_handle_method_call	../lib/geoclue-agent-interface.c	/^_gclue_agent_skeleton_handle_method_call ($/;"	f	file:
+_gclue_agent_skeleton_handle_set_property	../lib/geoclue-agent-interface.c	/^_gclue_agent_skeleton_handle_set_property ($/;"	f	file:
+_gclue_agent_skeleton_vtable	../lib/geoclue-agent-interface.c	/^static const GDBusInterfaceVTable _gclue_agent_skeleton_vtable =$/;"	v	file:
+accuracy_levels	app.c	/^	GList 		*accuracy_levels;$/;"	m	struct:__anon1	file:
+app	service.c	/^GeoClueAgentService *app;$/;"	v
+app_actions	app.c	/^const GActionEntry app_actions[] = {$/;"	v
+asked_accuracy	service.c	/^	guint 				*asked_accuracy;$/;"	m	struct:DialogData	file:
+authorizeAppMethodInvocation	service.c	/^	GDBusMethodInvocation 		*authorizeAppMethodInvocation;$/;"	m	struct:DialogData	file:
+authorized	service.c	/^	gboolean 			 authorized;$/;"	m	struct:DialogData	file:
+cancellable	app.c	/^	GCancellable 	*cancellable;$/;"	m	struct:__anon1	file:
+changed_properties	../lib/geoclue-agent-interface.c	/^  GList *changed_properties;$/;"	m	struct:_GClueAgentSkeletonPrivate	file:
+changed_properties_idle_source	../lib/geoclue-agent-interface.c	/^  GSource *changed_properties_idle_source;$/;"	m	struct:_GClueAgentSkeletonPrivate	file:
+check_button	servicewin.c	/^	GtkToggleButton *check_button;$/;"	m	struct:__anon2	file:
+combobox	servicewin.c	/^	GtkComboBox *combobox;$/;"	m	struct:__anon2	file:
+context	../lib/geoclue-agent-interface.c	/^  GMainContext *context;$/;"	m	struct:_GClueAgentSkeletonPrivate	file:
+desktop_id	service.c	/^	const gchar			*desktop_id;$/;"	m	struct:DialogData	file:
+dialog_data_new	service.c	/^dialog_data_new() {$/;"	f
+gclue_agent_call_authorize_app	../lib/geoclue-agent-interface.c	/^gclue_agent_call_authorize_app ($/;"	f
+gclue_agent_call_authorize_app_finish	../lib/geoclue-agent-interface.c	/^gclue_agent_call_authorize_app_finish ($/;"	f
+gclue_agent_call_authorize_app_sync	../lib/geoclue-agent-interface.c	/^gclue_agent_call_authorize_app_sync ($/;"	f
+gclue_agent_complete_authorize_app	../lib/geoclue-agent-interface.c	/^gclue_agent_complete_authorize_app ($/;"	f
+gclue_agent_default_init	../lib/geoclue-agent-interface.c	/^gclue_agent_default_init (GClueAgentIface *iface)$/;"	f	file:
+gclue_agent_get_max_accuracy_level	../lib/geoclue-agent-interface.c	/^gclue_agent_get_max_accuracy_level (GClueAgent *object)$/;"	f
+gclue_agent_interface_info	../lib/geoclue-agent-interface.c	/^gclue_agent_interface_info (void)$/;"	f
+gclue_agent_override_properties	../lib/geoclue-agent-interface.c	/^gclue_agent_override_properties (GObjectClass *klass, guint property_id_begin)$/;"	f
+gclue_agent_proxy_class_init	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_class_init (GClueAgentProxyClass *klass)$/;"	f	file:
+gclue_agent_proxy_finalize	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_finalize (GObject *object)$/;"	f	file:
+gclue_agent_proxy_g_properties_changed	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_g_properties_changed (GDBusProxy *_proxy,$/;"	f	file:
+gclue_agent_proxy_g_signal	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_g_signal (GDBusProxy *proxy,$/;"	f	file:
+gclue_agent_proxy_get_max_accuracy_level	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_get_max_accuracy_level (GClueAgent *object)$/;"	f	file:
+gclue_agent_proxy_get_property	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_get_property (GObject      *object,$/;"	f	file:
+gclue_agent_proxy_iface_init	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_iface_init (GClueAgentIface *iface)$/;"	f	file:
+gclue_agent_proxy_init	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_init (GClueAgentProxy *proxy)$/;"	f	file:
+gclue_agent_proxy_new	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_new ($/;"	f
+gclue_agent_proxy_new_finish	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_new_finish ($/;"	f
+gclue_agent_proxy_new_for_bus	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_new_for_bus ($/;"	f
+gclue_agent_proxy_new_for_bus_finish	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_new_for_bus_finish ($/;"	f
+gclue_agent_proxy_new_for_bus_sync	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_new_for_bus_sync ($/;"	f
+gclue_agent_proxy_new_sync	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_new_sync ($/;"	f
+gclue_agent_proxy_set_property	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_set_property (GObject      *object,$/;"	f	file:
+gclue_agent_proxy_set_property_cb	../lib/geoclue-agent-interface.c	/^gclue_agent_proxy_set_property_cb (GDBusProxy *proxy,$/;"	f	file:
+gclue_agent_set_max_accuracy_level	../lib/geoclue-agent-interface.c	/^gclue_agent_set_max_accuracy_level (GClueAgent *object, guint value)$/;"	f
+gclue_agent_skeleton_class_init	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_class_init (GClueAgentSkeletonClass *klass)$/;"	f	file:
+gclue_agent_skeleton_dbus_interface_flush	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_dbus_interface_flush (GDBusInterfaceSkeleton *_skeleton)$/;"	f	file:
+gclue_agent_skeleton_dbus_interface_get_info	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_dbus_interface_get_info (GDBusInterfaceSkeleton *skeleton G_GNUC_UNUSED)$/;"	f	file:
+gclue_agent_skeleton_dbus_interface_get_properties	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_dbus_interface_get_properties (GDBusInterfaceSkeleton *_skeleton)$/;"	f	file:
+gclue_agent_skeleton_dbus_interface_get_vtable	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_dbus_interface_get_vtable (GDBusInterfaceSkeleton *skeleton G_GNUC_UNUSED)$/;"	f	file:
+gclue_agent_skeleton_finalize	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_finalize (GObject *object)$/;"	f	file:
+gclue_agent_skeleton_get_max_accuracy_level	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_get_max_accuracy_level (GClueAgent *object)$/;"	f	file:
+gclue_agent_skeleton_get_property	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_get_property (GObject      *object,$/;"	f	file:
+gclue_agent_skeleton_iface_init	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_iface_init (GClueAgentIface *iface)$/;"	f	file:
+gclue_agent_skeleton_init	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_init (GClueAgentSkeleton *skeleton)$/;"	f	file:
+gclue_agent_skeleton_new	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_new (void)$/;"	f
+gclue_agent_skeleton_notify	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_notify (GObject      *object,$/;"	f	file:
+gclue_agent_skeleton_set_property	../lib/geoclue-agent-interface.c	/^gclue_agent_skeleton_set_property (GObject      *object,$/;"	f	file:
+geoclue_agent_app_class_init	app.c	/^geoclue_agent_app_class_init (GeoClueAgentAppClass *class)$/;"	f	file:
+geoclue_agent_app_display_about	app.c	/^geoclue_agent_app_display_about(GSimpleAction *action,$/;"	f	file:
+geoclue_agent_app_get_accuracy_level_index	app.c	/^geoclue_agent_app_get_accuracy_level_index(GeoClueAgentApp *self, gint accuracy) {$/;"	f
+geoclue_agent_app_get_accuracy_level_uint	app.c	/^geoclue_agent_app_get_accuracy_level_uint(GeoClueAgentApp *self, gint accuracy) {$/;"	f
+geoclue_agent_app_get_cancellable	app.c	/^geoclue_agent_app_get_cancellable(GeoClueAgentApp *self) {$/;"	f
+geoclue_agent_app_get_remembered_apps	app.c	/^geoclue_agent_app_get_remembered_apps(GeoClueAgentApp *self) {$/;"	f
+geoclue_agent_app_init	app.c	/^geoclue_agent_app_init (GeoClueAgentApp *app)$/;"	f	file:
+geoclue_agent_app_new	app.c	/^geoclue_agent_app_new (void) {$/;"	f
+geoclue_agent_app_post_register	app.c	/^geoclue_agent_app_post_register (GApplication *app) {$/;"	f
+geoclue_agent_app_remember_app	app.c	/^geoclue_agent_app_remember_app(GeoClueAgentApp *self, const gchar *desktop_id, GVariant *accuracy_level) {$/;"	f
+geoclue_agent_app_remembered_accuracy	app.c	/^geoclue_agent_app_remembered_accuracy(GeoClueAgentApp *self, const gchar *desktop_id) {$/;"	f
+geoclue_agent_app_window_about_dialog_open	appwin.c	/^void geoclue_agent_app_window_about_dialog_open(GeoClueAgentApp *app) {$/;"	f
+geoclue_agent_app_window_class_init	appwin.c	/^geoclue_agent_app_window_class_init (GeoClueAgentAppWindowClass *class)$/;"	f	file:
+geoclue_agent_app_window_credits_authors	appwin.c	/^static const gchar *geoclue_agent_app_window_credits_authors[] = {$/;"	v	file:
+geoclue_agent_app_window_destroy_window	appwin.c	/^void geoclue_agent_app_window_destroy_window(GeoClueAgentAppWindow *self) {$/;"	f
+geoclue_agent_app_window_init	appwin.c	/^geoclue_agent_app_window_init (GeoClueAgentAppWindow *app)$/;"	f	file:
+geoclue_agent_app_window_new	appwin.c	/^geoclue_agent_app_window_new (GeoClueAgentApp *app)$/;"	f
+geoclue_agent_load_remebered_apps	app.c	/^geoclue_agent_load_remebered_apps (GeoClueAgentAppPrivate *priv) {$/;"	f
+geoclue_agent_service_activate	service.c	/^geoclue_agent_service_activate (GApplication *application)$/;"	f	file:
+geoclue_agent_service_allow_access	service.c	/^geoclue_agent_service_allow_access(GtkButton	*button,$/;"	f	file:
+geoclue_agent_service_authorize	service.c	/^geoclue_agent_service_authorize($/;"	f	file:
+geoclue_agent_service_class_init	service.c	/^geoclue_agent_service_class_init (GeoClueAgentServiceClass *class)$/;"	f	file:
+geoclue_agent_service_display_authorize_window	service.c	/^geoclue_agent_service_display_authorize_window(struct DialogData	*data) {$/;"	f	file:
+geoclue_agent_service_finalize_access	service.c	/^geoclue_agent_service_finalize_access(struct DialogData  *data,$/;"	f
+geoclue_agent_service_finalize_access_window	service.c	/^geoclue_agent_service_finalize_access_window(struct DialogData *data) {$/;"	f
+geoclue_agent_service_init	service.c	/^geoclue_agent_service_init (GeoClueAgentService *app)$/;"	f	file:
+geoclue_agent_service_new	service.c	/^geoclue_agent_service_new (void)$/;"	f
+geoclue_agent_service_on_name	service.c	/^static void geoclue_agent_service_on_name($/;"	f	file:
+geoclue_agent_service_quit	service.c	/^geoclue_agent_service_quit() {$/;"	f
+geoclue_agent_service_refuse_access	service.c	/^geoclue_agent_service_refuse_access(GtkButton	*button,$/;"	f	file:
+geoclue_agent_service_refuse_access_window	service.c	/^geoclue_agent_service_refuse_access_window(GtkButton	*button,$/;"	f	file:
+geoclue_agent_service_registered	service.c	/^static void geoclue_agent_service_registered(GDBusProxy		*proxy,$/;"	f	file:
+geoclue_agent_service_window_class_init	servicewin.c	/^geoclue_agent_service_window_class_init (GeoClueAgentServiceWindowClass *class)$/;"	f	file:
+geoclue_agent_service_window_combobox_get_active	servicewin.c	/^guint geoclue_agent_service_window_combobox_get_active(GeoClueAgentServiceWindow *self) {$/;"	f
+geoclue_agent_service_window_destroy_window	servicewin.c	/^void geoclue_agent_service_window_destroy_window(GeoClueAgentServiceWindow *self) {$/;"	f
+geoclue_agent_service_window_get_remember	servicewin.c	/^gboolean geoclue_agent_service_window_get_remember(GeoClueAgentServiceWindow *self) {$/;"	f
+geoclue_agent_service_window_init	servicewin.c	/^geoclue_agent_service_window_init (GeoClueAgentServiceWindow *app)$/;"	f	file:
+geoclue_agent_service_window_new	servicewin.c	/^geoclue_agent_service_window_new (GeoClueAgentService *app)$/;"	f
+geoclue_agent_service_window_open	servicewin.c	/^geoclue_agent_service_window_open (GeoClueAgentServiceWindow 	*win,$/;"	f
+get_max_accuracy_level	../lib/geoclue-agent-interface.h	/^  guint  (*get_max_accuracy_level) (GClueAgent *object);$/;"	m	struct:_GClueAgentIface
+gsettings	app.c	/^	GSettings 	*gsettings;$/;"	m	struct:__anon1	file:
+handle_authorize_app	../lib/geoclue-agent-interface.h	/^  gboolean (*handle_authorize_app) ($/;"	m	struct:_GClueAgentIface
+hyphen_name	../lib/geoclue-agent-interface.c	/^  const gchar *hyphen_name;$/;"	m	struct:__anon7	file:
+hyphen_name	../lib/geoclue-agent-interface.c	/^  const gchar *hyphen_name;$/;"	m	struct:__anon8	file:
+info	../lib/geoclue-agent-interface.c	/^  const _ExtendedGDBusPropertyInfo *info;$/;"	m	struct:__anon9	file:
+lock	../lib/geoclue-agent-interface.c	/^  GMutex lock;$/;"	m	struct:_GClueAgentSkeletonPrivate	file:
+main	service.c	/^main(int argc, char** argv) {$/;"	f
+orig_value	../lib/geoclue-agent-interface.c	/^  GValue orig_value; \/* the value before the change *\/$/;"	m	struct:__anon9	file:
+parent	app.c	/^	GtkApplication 	 parent;$/;"	m	struct:__anon1	file:
+parent	appwin.c	/^	GtkApplicationWindow *parent;$/;"	m	struct:__anon3	file:
+parent	appwin.h	/^	GtkApplicationWindow parent;$/;"	m	struct:_GeoClueAgentAppWindow
+parent	service.c	/^	GeoClueAgentApp	parent;$/;"	m	struct:_GeoClueAgentService	file:
+parent	servicewin.c	/^	GtkApplicationWindow *parent;$/;"	m	struct:__anon2	file:
+parent_class	../lib/geoclue-agent-interface.h	/^  GDBusInterfaceSkeletonClass parent_class;$/;"	m	struct:_GClueAgentSkeletonClass
+parent_class	../lib/geoclue-agent-interface.h	/^  GDBusProxyClass parent_class;$/;"	m	struct:_GClueAgentProxyClass
+parent_class	app.h	/^	GtkApplicationClass parent_class;$/;"	m	struct:_GeoClueAgentAppClass
+parent_class	servicewin.h	/^	GtkApplicationWindowClass parent_class;$/;"	m	struct:_GeoClueAgentServiceWindow
+parent_iface	../lib/geoclue-agent-interface.h	/^  GTypeInterface parent_iface;$/;"	m	struct:_GClueAgentIface
+parent_instance	../lib/geoclue-agent-interface.h	/^  GDBusInterfaceSkeleton parent_instance;$/;"	m	struct:_GClueAgentSkeleton
+parent_instance	../lib/geoclue-agent-interface.h	/^  GDBusProxy parent_instance;$/;"	m	struct:_GClueAgentProxy
+parent_struct	../lib/geoclue-agent-interface.c	/^  GDBusArgInfo parent_struct;$/;"	m	struct:__anon4	file:
+parent_struct	../lib/geoclue-agent-interface.c	/^  GDBusInterfaceInfo parent_struct;$/;"	m	struct:__anon8	file:
+parent_struct	../lib/geoclue-agent-interface.c	/^  GDBusMethodInfo parent_struct;$/;"	m	struct:__anon5	file:
+parent_struct	../lib/geoclue-agent-interface.c	/^  GDBusPropertyInfo parent_struct;$/;"	m	struct:__anon7	file:
+parent_struct	../lib/geoclue-agent-interface.c	/^  GDBusSignalInfo parent_struct;$/;"	m	struct:__anon6	file:
+pass_fdlist	../lib/geoclue-agent-interface.c	/^  gboolean pass_fdlist;$/;"	m	struct:__anon5	file:
+priv	../lib/geoclue-agent-interface.h	/^  GClueAgentProxyPrivate *priv;$/;"	m	struct:_GClueAgentProxy
+priv	../lib/geoclue-agent-interface.h	/^  GClueAgentSkeletonPrivate *priv;$/;"	m	struct:_GClueAgentSkeleton
+prop_id	../lib/geoclue-agent-interface.c	/^  guint prop_id;$/;"	m	struct:__anon9	file:
+properties	../lib/geoclue-agent-interface.c	/^  GValue *properties;$/;"	m	struct:_GClueAgentSkeletonPrivate	file:
+qdata	../lib/geoclue-agent-interface.c	/^  GData *qdata;$/;"	m	struct:_GClueAgentProxyPrivate	file:
+queue	service.c	/^	GAsyncQueue			*queue;$/;"	m	struct:DialogData	file:
+remembered_apps	app.c	/^	GVariantDict 	*remembered_apps;$/;"	m	struct:__anon1	file:
+signal_name	../lib/geoclue-agent-interface.c	/^  const gchar *signal_name;$/;"	m	struct:__anon5	file:
+signal_name	../lib/geoclue-agent-interface.c	/^  const gchar *signal_name;$/;"	m	struct:__anon6	file:
+skeleton_exported	service.c	/^	gboolean 	skeleton_exported;$/;"	m	struct:_GeoClueAgentService	file:
+use_gvariant	../lib/geoclue-agent-interface.c	/^  gboolean use_gvariant;$/;"	m	struct:__anon4	file:
+use_gvariant	../lib/geoclue-agent-interface.c	/^  gboolean use_gvariant;$/;"	m	struct:__anon7	file:
+window	service.c	/^	GeoClueAgentServiceWindow 	*window;$/;"	m	struct:DialogData	file:

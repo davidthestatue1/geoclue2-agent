@@ -1,0 +1,11 @@
+# List of source files which contain translatable strings.
+./src/app.c
+./src/service.c
+./src/appwin.c
+./src/servicewin.c
+./src/app.h
+./src/service.h
+./src/appwin.h
+./src/servicewin.h
+./misc/io.github.koko-ng.geoclue-agent.desktop.in.in
+./misc/io.github.koko-ng.geoclue-agent.gschema.xml

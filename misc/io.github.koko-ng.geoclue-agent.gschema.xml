@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gclue_agent">
+
+<schema id="io.github.koko-ng.gclue-agent" path="/io/github/koko-ng/geoclue-agent/">
+    <key name="remembered-apps" type="a{sv}">
+        <default>[]</default>
+        <summary>remembered authorization for apps</summary>
+        <description>The first field is the desktop file of the app. The second one is the allowed accuracy as defined by GeoClue2 specification, as a variant containing a signed 16-bit integer</description>
+    </key>
+</schema>
+
+</schemalist>
+
+

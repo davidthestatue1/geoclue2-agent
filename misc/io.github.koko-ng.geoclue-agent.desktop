@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Localisation Access
+Exec=/usr/local/libexec/geoclue-agent-service
+OnlyShowIn=GNOME;Unity;
+NoDisplay=true
+X-GNOME-Autostart-Phase=Application
+#X-GNOME-Autostart-Phase=Initialization TODO nneds to register to the session manager
+X-GNOME-Autostart-Notify=true
+X-GNOME-AutoRestart=true
